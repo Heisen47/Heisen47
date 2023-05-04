@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heisen47
 - 👀 I’m interested in learning new things in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on some fun python projects
+- 🌱 I’m currently learning web dev
+- 💞️ I’m looking to collaborate on some fun web dev projects
 - 📫 How to reach me iamheisenberg47@gmail.com
 
 <!---
