@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Heisen47<br>👀 I’m interested in learning new things in coding<br>🌱 I am software engineer with 3 years experience <br>💞️ I’m looking to collaborate on some fun web dev projects<br>📫 How to reach me iamrishi.dev47@gmail.com
+👋 Hi, I’m @Heisen47<br>👀 I’m interested in learning new things in coding<br>💞️ I’m looking to collaborate on some fun web dev projects<br>📫 How to reach me iamrishi.dev47@gmail.com
 
 
 ## 🌐 Socials:
